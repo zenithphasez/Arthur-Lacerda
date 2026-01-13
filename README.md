@@ -22,4 +22,4 @@ Professional Highlights:
    Documentation: Focused on clean code for tests and detailed reporting (Mochawesome/Allure).
 
 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/arthur-olacerda/) | [Email](arthurlacerda25@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arthur-olacerda/) or by Email : arthurlacerda25@gmail.com
